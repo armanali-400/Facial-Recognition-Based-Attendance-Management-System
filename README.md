@@ -33,8 +33,8 @@ A **Flask-based web application** that uses **Facial Recognition** to automate a
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/facial-recognition-attendance.git
-cd facial-recognition-attendance
+git clone https://github.com/armanali-400/Facial-Recognition-Based-Attendance-Management-System.git
+
 ```
 
 ### **2️⃣ Create a Virtual Environment (Optional but Recommended)**  
